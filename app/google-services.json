@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "873452417065",
+    "project_id": "gymnavi-e0ef0",
+    "storage_bucket": "gymnavi-e0ef0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873452417065:android:853dae4aa5bad344752c38",
+        "android_client_info": {
+          "package_name": "com.example.register"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873452417065-p0acob2ncdbvv3325cct7l03823tli7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7mB4PwFTFCCU2_OTNVFhQS7w3QjRJOdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873452417065-p0acob2ncdbvv3325cct7l03823tli7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
